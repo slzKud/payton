@@ -12,7 +12,7 @@
 * requests
 
 ## 如何运行
-* 直接执行start.py即可，然后访问http://127.0.0.1即可。（默认端口在backend.py里面）
+* 直接执行start.py即可，然后访问127.0.0.1即可。（默认端口在backend.py里面）
 
 ## 如何添加API
 
